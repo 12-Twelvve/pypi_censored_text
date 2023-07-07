@@ -6,7 +6,7 @@ setup(
     description='Python package for censoring profane words in Nepali-(Roman) text',
     author='Kuber Budhathoki',
     author_email='koobear99@gmail.com',
-    url='https://github.com/yourusername/your-package',
+    url='https://github.com/12-Twelvve/pypi_censored_text',
     packages=['censoredzz'],
     install_requires=[
         'regex',
