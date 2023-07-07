@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore built distribution files
+dist/
+build/
+censoredzz.egg-info/
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore package dependencies installed with pip
+requirements.txt
